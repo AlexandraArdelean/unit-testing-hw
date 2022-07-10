@@ -1,4 +1,4 @@
-package ro.fasttrackit.unittesting.recursion;
+package ro.fasttrackit.unittesting.lambdas_streams;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
